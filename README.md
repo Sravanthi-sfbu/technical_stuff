@@ -25,4 +25,4 @@ Training complete!
 
 Generated Text:
 SFBU focuses on innovative learning SFBU focuses on innovative learning SFBU focuses on innovative lear
-(tfmac) nani@NANIs-MacBook-Air assignment8week11 % 
+
